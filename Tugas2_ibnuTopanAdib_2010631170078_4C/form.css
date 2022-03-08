@@ -1,0 +1,40 @@
+*{
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 0;
+    outline: 0;
+    font-family: sans-serif;
+}
+.container h1{
+    text-align: center;
+    border-bottom: 4px;
+    
+}
+.container label{
+    font-size: large;
+}
+.container input[type=text] {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid blue ;
+    resize : vertical;
+}
+.container textarea{
+    width: 100%;
+    padding: 8px;
+    border: 1px solid blue ;
+    height: 30px;
+    resize : vertical;
+}
+.container input[type=submit] {
+    width: 100px;
+    padding: 8px;
+    background-color: blue;
+    color: white;
+}
+.container select{
+    width: 100%;
+    padding: 8px;
+    border: 1px solid blue ;
+    resize : vertical;
+}

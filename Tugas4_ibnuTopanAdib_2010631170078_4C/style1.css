@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&display=swap');
+
+*{
+    font-family: 'Nunito', sans-serif;
+}
+
+
+.navbar-brand img{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 80px;
+
+}
+
+#logo{
+    -webkit-animation: rotation 3s infinite linear;
+}
+
+@-webkit-keyframes rotation{
+    from{
+        -webkit-transform: rotate(0deg);
+    }
+    to{
+        -webkit-transform: rotate(359deg);  
+    }
+}
+
+.nav-tot{
+    color:black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.nav-tot:hover{
+    color: blue;
+}
+
+
+.price {
+    font-weight: 400;
+    color: #12CBC4;
+    vertical-align: middle;
+    padding: 0.375rem 0.75rem;
+    font-size: 2rem;
+    margin-left: 4.42rem;
+}
+
+.brand{
+    color: #ff6b81;
+}
+
+.rawless{
+    background-color: #ff6b81;
+}
