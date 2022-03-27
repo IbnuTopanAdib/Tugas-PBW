@@ -1,0 +1,20 @@
+[
+    {
+        "Airline": "Squirrel Air",
+        "Initial_airport": "Heathrow (LHR)",
+        "Final_airport": "Bristol Airport (BRS)",
+        "Class": "Ekonomi",
+        "Ticket_price": "445",
+        "Tax": 15.7,
+        "Total_price": 921.4
+    },
+    {
+        "Airline": "Squirrel Air",
+        "Initial_airport": "Heathrow (LHR)",
+        "Final_airport": "Bristol Airport (BRS)",
+        "Class": "Ekonomi",
+        "Ticket_price": "445",
+        "Tax": 15.7,
+        "Total_price": 921.4
+    }
+]

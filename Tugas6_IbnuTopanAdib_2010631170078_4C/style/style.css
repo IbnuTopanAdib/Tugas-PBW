@@ -1,0 +1,45 @@
+
+.image{
+    width:100%;
+    height: 20px;
+    float: left;
+    /* transform: scaleX(-1); */
+}
+.image img{
+    height: 558.5px;
+}
+.form-select{
+    border-color: blue;
+}
+.form-control{
+    border-color: blue;
+
+}
+.form-label{
+    font-weight: 700;
+    color: black;
+}
+.pemisah{
+    padding-top: 20px;
+}
+
+.table{
+    width: 70%;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 18px;
+   
+    border-collapse: collapse;
+    
+}
+th{
+    height: 40px;
+    text-align: center;
+}
+
+td{
+    height: 30px;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
